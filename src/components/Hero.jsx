@@ -38,7 +38,7 @@ const Hero = () => {
             Unleash the power of AI within Brainwave. Upgrade your productivity
             with Brainwave, the open AI chat app.
           </p>
-          <Button href="/pricing" white>
+          <Button href="#pricing" white>
             Get started
           </Button>
         </div>
@@ -83,7 +83,7 @@ const Hero = () => {
               alt="hero"
             />
           </div>
-          <BackgroundCircles /> 
+          <BackgroundCircles />
         </div>
         <CompanyLogos className="hidden relative z-10 mt-20 lg:block" />
       </div>

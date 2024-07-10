@@ -28,7 +28,7 @@ function PricingList() {
           <Button
             className="w-full mb-6"
             href={
-              item.price ? "/pricing" : "mailto:info:youssof.antar@gmail.com"
+              item.price ? "#pricing" : "mailto:info:youssof.antar@gmail.com"
             }
             white={!!item.price}
           >
